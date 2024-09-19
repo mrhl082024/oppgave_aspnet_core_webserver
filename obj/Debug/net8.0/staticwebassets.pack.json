@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\larmi\\Desktop\\backend_prosjekter\\oppgave_aspnet_core_webserver\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\larmi\\Desktop\\backend_prosjekter\\oppgave_aspnet_core_webserver\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.oppgave_aspnet_core_webserver.props",
+      "PackagePath": "build\\oppgave_aspnet_core_webserver.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.oppgave_aspnet_core_webserver.props",
+      "PackagePath": "buildMultiTargeting\\oppgave_aspnet_core_webserver.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.oppgave_aspnet_core_webserver.props",
+      "PackagePath": "buildTransitive\\oppgave_aspnet_core_webserver.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.oppgave_aspnet_core_webserver.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

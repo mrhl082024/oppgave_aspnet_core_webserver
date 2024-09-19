@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "ZmJP+6grU9aiD8spbQ11WpEIm3oyyiyVm2AoqtMaJMA=",
+  "Source": "oppgave_aspnet_core_webserver",
+  "BasePath": "_content/oppgave_aspnet_core_webserver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "oppgave_aspnet_core_webserver\\wwwroot",
+      "Source": "oppgave_aspnet_core_webserver",
+      "ContentRoot": "C:\\Users\\larmi\\Desktop\\backend_prosjekter\\oppgave_aspnet_core_webserver\\wwwroot\\",
+      "BasePath": "_content/oppgave_aspnet_core_webserver",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\larmi\\Desktop\\backend_prosjekter\\oppgave_aspnet_core_webserver\\wwwroot\\index.css",
+      "SourceId": "oppgave_aspnet_core_webserver",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\larmi\\Desktop\\backend_prosjekter\\oppgave_aspnet_core_webserver\\wwwroot\\",
+      "BasePath": "_content/oppgave_aspnet_core_webserver",
+      "RelativePath": "index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\larmi\\Desktop\\backend_prosjekter\\oppgave_aspnet_core_webserver\\wwwroot\\index.html",
+      "SourceId": "oppgave_aspnet_core_webserver",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\larmi\\Desktop\\backend_prosjekter\\oppgave_aspnet_core_webserver\\wwwroot\\",
+      "BasePath": "_content/oppgave_aspnet_core_webserver",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

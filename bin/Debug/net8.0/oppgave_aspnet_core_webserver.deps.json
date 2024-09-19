@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "oppgave_aspnet_core_webserver/1.0.0": {
+        "runtime": {
+          "oppgave_aspnet_core_webserver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oppgave_aspnet_core_webserver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

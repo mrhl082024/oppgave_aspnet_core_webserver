@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\oppgave_aspnet_core_webserver.props" />
+</Project>
